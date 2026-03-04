@@ -6,7 +6,7 @@ This software displays the phrase "Hello World".
 
 This software was created to demonstrate proficiency in new projects.
 
-[Software Demo Video](http://youtube.link.goes.here)
+https://youtu.be/uHNBnAYa-zM
 
 # Development Environment
 
