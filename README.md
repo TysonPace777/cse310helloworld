@@ -16,6 +16,5 @@ The Hello World code is written with Java.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * https://code.visualstudio.com/docs/java/java-tutorial
 * https://loiane.com/2024/03/visual-studio-code-for-java-the-complete-guide/
